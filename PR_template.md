@@ -18,7 +18,7 @@
 
 ## Testing Steps / QA Criteria
 
-<!-- Provide steps the other cohort members and mentors need to follow to properly test your additions.
+<!-- Provide steps team members and reviewers need to follow to properly test your additions.
 
 For example:
 1. Checkout the branch NZ-issue-short-name, run npm start in the client
